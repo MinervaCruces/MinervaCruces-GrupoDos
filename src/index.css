@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.courgette-regular {
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+        font-style: normal;
+    }
+    
+    body {
+    font-family: "Montserrat", sans-serif;
+    padding: 0;
+    }

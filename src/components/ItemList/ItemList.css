@@ -1,0 +1,22 @@
+.itemlist-container {
+    width: 100vw;
+    min-height: 100vh; 
+    background-image: url('/fondo.jpg'); 
+    background-size: cover;
+    background-position: center; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.itemlist-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 1170px;
+    padding-bottom: 100px;
+    gap: 20px; 
+}
